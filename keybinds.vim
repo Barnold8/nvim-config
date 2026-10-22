@@ -3,7 +3,7 @@ let mapleader = " "
 let maplocalleader = " "
 nnoremap <Space>r <cmd>Ranger<cr>
 nnoremap <Space>f <cmd>Telescope find_files<cr>
-nnoremap <Space>t <cmd>NERDtree<cr>
+nnoremap <Space>t <cmd>NERDTree<cr>
 nnoremap <Space><Space> <cmd>WhichKey '<Space>'<cr>
 
 let g:theme_cache_dir = stdpath('data') "To where .local/share is for nvim
