@@ -6,6 +6,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug    'nvim-telescope/telescope.nvim'
 	Plug    'nvim-lua/plenary.nvim'
 	Plug	'rbgrouleff/bclose.vim'
+	Plug    'francoiscabrol/ranger.vim'
 
 
 
