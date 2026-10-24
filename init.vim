@@ -3,3 +3,4 @@ source ~/.config/nvim/keybinds.vim
 
 set clipboard+=unnamedplus
 set timeoutlen=250
+set number
