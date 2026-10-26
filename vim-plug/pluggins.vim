@@ -10,6 +10,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'nvim-tree/nvim-web-devicons' " OPTIONAL: for file icons
 	Plug 'lewis6991/gitsigns.nvim' " OPTIONAL: for git status
 	Plug 'romgrk/barbar.nvim'
+	Plug 'OXY2DEV/markview.nvim'
 
 	"Themes"
 	
